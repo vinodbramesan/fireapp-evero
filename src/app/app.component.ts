@@ -14,8 +14,7 @@ export class AppComponent {
   private user_email: String;
   constructor(public authService: AuthService, private router: Router) {
     this.authService.af.auth.onAuthStateChanged(
-      (auth) => {
-        console.log(auth);
+      (auth) => {      
         if (auth == null) {
           console.log("Logged out");
           this.isLoggedIn = false;
@@ -28,7 +27,9 @@ export class AppComponent {
           this.user_email = auth.email;
           console.log("Logged in");
           console.log(auth);
-          this.router.navigate(['']);
+          if (this.router.url == '/Login') {
+            this.router.navigate(['']);
+          }
         }
       }
     );
