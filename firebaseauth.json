@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "everofire",
+  "private_key_id": "4094fb68d720d6bdb8ea09c959a4e7a4339900de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDMDA4jL9A02qa8\nbZzUXJ6hsFUI9LxoAQzn2v4dgsnifwXQjXA2nlJ1YJ9qKJACBz6CCUuu5botFiLT\nvmKrHsG2dSGP/stB/fPRWz0mhz5ptxr0xjAdlaWXSSSP7v3oL110vLpId5x2dZX4\nYXto62oPt9KrIUJGH4XStZsQHgwVOD5uIKsSa3zzWFkkyL2gQqEu5/xekZOxnTyY\n6LL8RJwpoHFREYCGvqDpoOaNTRYqz8Z+iZCxcqxXxUnYPEZm7MyFBK+y8AOPP4cS\nnWHhfZZsnXEJGLsoyn7V7R7efrDafB3vSRu+zQ3R81agViKyWshemuIG4zEz+dTZ\nJzytvUitAgMBAAECggEAFczr7cJ8AkmiKtujN+U1ZZ0LWMudHZePI254W/rPSw27\nN08FQDCmKrhKD/OJf0361bXcijEtNQf6bJkYvaOpmq7lCRd16/UQCbwvymAEwRK5\nJJHQLjkA2isMZvxn0FjPKVvIo1l0NAvYHBN+NfWA/XDsZzBEfm17xMl2acBsFhAd\naRogVk3yEACwCbjS0WnC7tOqdCDzXJvwv8Zx31cPXHBUvmYY1CH90oRCmVsoFs8w\ndTNjtdaPE8DK7osk51lk1UAk5m3u5po89dGdzoxFBLt0amnlOoPybx3VW3vzPvhk\nViv92GalvK/SNInhiVwtzGZ5zWYqBbuLIK4iIEaaAQKBgQDutuZjRFQzq5LJuRfZ\nPF+XZIqNQ//MzsL6u3nyXaNOkYhygO/a9ao6nTc1xR0Y/2ecZNTlOJ2tVYwNnFLY\n1Bnaqns70bMTJh2Wdr8fPyYOQH/M544rE+KVHtplXIsDaJuBxAGK+UXw/KEfEucN\ngxc6OuBDbEcaKqd0sMHk5reUwQKBgQDa0oTiqV+XKDqNzAjD154lCyEPwqAgn3Wq\nOG0CqBoTMCAkTEMEw1uMhc+CN6JfOjQzl43hwbmKu70fTU/kYPGmONQay9sgW+3R\n5UL2ghejoSqwILm9VEJ58iVaeVlKVLcHaxpgIZIAtKbcEFGvWn1He4nW/E1JIPS/\ngCtT4xMS7QKBgBJMsxypAEt1u6r7JXjhx/IzIuvxaoqozwmplY+e3gYH4g3lFH4U\nlxgnNTRKCBECg07Z6/gmfu/qvvHMKg21NMYui4Pqb2/oXBxMvhoHHUO6bhGnLp7e\nx1/nHZbnoUCBpGouPHAK6/GtbCyVpmDCy+UK3mZMxqaa3ntzkWmaxjgBAoGAG5wG\nUkcGnZ7gzHVbAcLZ3FisIj3vUE5uXTzjXDtzlsoytAG/TwGLMo7LoOV+Ij/IyF2t\n9DcqPvvzH9j0ZJ9qvgtbj8n66vlOZ3Zi3ZGKhAXYygJHDUFtZc+MsP6wqnVH5rK3\n0DtMHbStfQS+Gb70IanPuYV6BukWmHcGgH4dMP0CgYBT0jiU9ZApTXX412YBD/Bs\nrW+6furekLKv9aUJQQ9ToLVYrpBtIqAiFG8Wg3Xz80j/lQsQzOSXs1QIR3mz6Wtt\n6tX5Fzc38El3CTBpBmLZNbpU8qzDR0dnRPLVVQscgp6vMwob2qvtek0cLJc/i/hn\nxwEn2NFdWAUVwBw9kUQtnA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-iz1fh@everofire.iam.gserviceaccount.com",
+  "client_id": "108126185628009936116",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-iz1fh%40everofire.iam.gserviceaccount.com"
+}

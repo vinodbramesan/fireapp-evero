@@ -1,0 +1,14 @@
+<p>
+  employeelist works!
+</p>
+<ul>
+  <li class="text" *ngFor="let item of items | async">
+    {{item.EmployeeID}} -{{item.EmployeeName}} <button (click)="removeItem(item)">Remove</button>
+  </li>
+</ul>
+<form>
+  EmployeeID: <input class="form-control" type="text" name="empid" [(ngModel)]="employeeID"/>
+  EmployeeID: <input class="form-control" type="text" name="empname" [(ngModel)]="empName"/>
+</form>
+<button class="btn btn-primary" (click)="AddItem()">Add Item</button>
+ <button class="btn btn-default" (click)="SignOut()">Sign Out</button>

@@ -4,5 +4,13 @@
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase: {
+    apiKey: "AIzaSyAg0Qwx7LIrbeiKJ_Kl3RBl6irUg-otHQ4",
+    authDomain: "everofire.firebaseapp.com",
+    databaseURL: "https://everofire.firebaseio.com",
+    projectId: "everofire",
+    storageBucket: "everofire.appspot.com",
+    messagingSenderId: "958858918557"
+  }
 };
