@@ -28,7 +28,7 @@ export class AppComponent {
           console.log("Logged in");
           console.log(auth);
           if (this.router.url == '/Login') {
-            this.router.navigate(['']);
+            this.router.navigate(['/Manage']);
           }
         }
       }

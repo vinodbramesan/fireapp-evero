@@ -13,7 +13,7 @@ export class LoginPageComponent implements OnInit {
   }
   login() {
     this.authService.onLogin().then((data) => {
-      this.router.navigate(['']);
+      this.router.navigate(['/Manage']);
     })
   }
 
